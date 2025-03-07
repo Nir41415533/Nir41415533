@@ -12,9 +12,6 @@
 A simple blog built with Django.  
 🔗 [GitHub Repo](https://github.com/Nir41415533/django-blog)
 
-### 🌐 HTML Portfolio  
-A basic portfolio website.  
-🔗 [GitHub Repo](https://github.com/Nir41415533/html-protfolio)
 
 ---
 
