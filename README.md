@@ -1,26 +1,19 @@
 # Hi there, I'm Nir! 👋
 
-🚀 **Final-year Computer Science student** passionate about software development.  
-💡 Skilled in **Python, Django, SQL, JavaScript**, and always eager to learn new technologies.  
-🔍 Interested in **backend development, web applications, and problem-solving**.  
-📂 **Experienced with Git and version control in collaborative projects**.  
-
----
-
-## 🔥 Featured Projects  
-### 📝 Django Blog  
-A simple blog built with Django.  
-🔗 [GitHub Repo](https://github.com/Nir41415533/django-blog)
-
-
+🚀 Final-year Computer Science student passionate about software development and DevOps.
+💡 Skilled in Python, Django, SQL, JavaScript, and always eager to learn new technologies.
+🔍 Interested in backend development, web applications, problem-solving, and DevOps automation.
+📂 Experienced with Git, version control, and working with collaborative projects.
+⚙️ Currently learning CI/CD, Jenkins, Docker, and server automation.
 ---
 
 ## 📚 Technologies I Work With  
-- **Languages:** Python, JavaScript, SQL  
+- **Languages:** Python, JavaScript, SQL , C++, C, Java 
 - **Frameworks:** Django, Flask  
-- **Databases:** PostgreSQL, MySQL, SQLite  
+- **Databases:** : PostgreSQL, MySQL, SQLite, MS SQL 
 - **Version Control:** Git, GitHub  
-
+- **DevOps Tools**: Docker, Jenkins, CI/CD pipelines
+   **Operating Systems**: Linux (Ubuntu), Windows
 ---
 
 ## 📬 Connect with Me  
