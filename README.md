@@ -1,10 +1,10 @@
 # Hi there, I'm Nir! 👋
 
-🚀 Final-year Computer Science student passionate about software development and DevOps.
-💡 Skilled in Python, Django, SQL, JavaScript, and always eager to learn new technologies.
-🔍 Interested in backend development, web applications, problem-solving, and DevOps automation.
-📂 Experienced with Git, version control, and working with collaborative projects.
-⚙️ Currently learning CI/CD, Jenkins, Docker, and server automation.
+- 🚀 Final-year Computer Science student passionate about software development and DevOps.
+- 💡 Skilled in Python, Django, SQL, JavaScript, and always eager to learn new technologies.
+- 🔍 Interested in backend development, web applications, problem-solving, and DevOps automation.
+- 📂 Experienced with Git, version control, and working with collaborative projects.
+- ⚙️ Currently learning CI/CD, Jenkins, Docker, and server automation.
 ---
 
 ## 📚 Technologies I Work With  
