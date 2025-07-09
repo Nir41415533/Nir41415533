@@ -1,25 +1,28 @@
-# Hi there, I'm Nir! 👋
+## 👋 Hi there, I'm Nir
 
-- 🚀 Final-year Computer Science student passionate about software development and DevOps.
-- 💡 Skilled in Python, Django, SQL, JavaScript, and always eager to learn new technologies.
-- 🔍 Interested in backend development, web applications, problem-solving, and DevOps automation.
-- 📂 Experienced with Git, version control, and working with collaborative projects.
-- ⚙️ Currently learning CI/CD, Jenkins, Docker, and server automation.
+🎓 Computer Science graduate with a passion for backend development and software engineering.  
+🛠 Skilled in Python, Django, FastAPI, SQL, and RESTful API design.  
+🚀 Experienced in building fullstack applications and automation tools using Git, Docker, and CI/CD pipelines.  
+💡 Always eager to learn, solve real-world problems, and contribute to meaningful, collaborative projects.
+
 ---
 
-## 📚 Technologies I Work With  
-- **Languages:** Python, JavaScript, SQL , C++, C, Java 
-- **Frameworks:** Django, Flask  
-- **Databases:** : PostgreSQL, MySQL, SQLite, MS SQL 
-- **Version Control:** Git, GitHub  
-- **DevOps Tools**: Docker, Jenkins, CI/CD pipelines
-   **Operating Systems**: Linux (Ubuntu), Windows
+### 🧰 Technologies I Work With
+
+- **Languages**: Python, JavaScript, SQL, C++, Java  
+- **Frameworks**: Django, FastAPI, Flask  
+- **Databases**: PostgreSQL, MySQL, SQLite  
+- **DevOps & Tools**: Docker, Jenkins, CI/CD Pipelines  
+- **Version Control**: Git, GitHub  
+
 ---
 
-## 📬 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nir41415533)  
+## 📬 Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/python-fighter/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://nir-portfolio-backend.onrender.com/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nir41415511@gmail.com)
 
 ---
 
-📌 **Want to see my work? Check out my repositories!**  
+📌 **Want to see my work? Check out my pinned repositories above!**
