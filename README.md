@@ -17,7 +17,7 @@ Quick to learn new technologies, with solid problem-solving skills and a deep un
 
 ## 🌍 Featured Projects  
 
-### 🏅 [Interactive World War II Map & Timeline](https://github.com/Nir41415533/WWII-Interactive-Map)  
+### 🏅 [Interactive World War II Map & Timeline](https://github.com/Nir41415533/Final-Project)  
 Built a bilingual fullstack platform for the **Jewish Soldier Museum**, featuring interactive maps, RESTful APIs for 34K+ historical records, and AI-powered content.  
 Tech Stack: *Django, PostgreSQL, JavaScript, MapLibre, REST API*
 
@@ -29,10 +29,8 @@ Tech Stack: *FastAPI, JavaScript, OpenAI API*
 
 ## 📬 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nir41415533/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://nir-ohayon.onrender.com/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nir41415533)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nir41415511@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nir41415533/) [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://nir-ohayon.onrender.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nir41415533) [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nir41415511@gmail.com)
+
 
 ---
 
