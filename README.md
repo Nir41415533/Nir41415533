@@ -21,7 +21,7 @@ Quick to learn new technologies, with solid problem-solving skills and a deep un
 Built a bilingual fullstack platform for the **Jewish Soldier Museum**, featuring interactive maps, RESTful APIs for 34K+ historical records, and AI-powered content.  
 Tech Stack: *Django, PostgreSQL, JavaScript, MapLibre, REST API*
 
-### 💻 [AI-Powered Terminal Portfolio](https://github.com/Nir41415533/Terminal-Portfolio)  
+### 💻 [AI-Powered Terminal Portfolio](https://github.com/Nir41415533/nir-protfolio)  
 An interactive, terminal-style personal portfolio that uses **FastAPI** and **OpenAI API** for natural language and shell-like command interactions.  
 Tech Stack: *FastAPI, JavaScript, OpenAI API*
 
