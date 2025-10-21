@@ -1,28 +1,40 @@
-## 👋 Hi there, I'm Nir
+## 👋 Hi there, I'm Nir  
 
-🎓 Computer Science graduate with a passion for backend development and software engineering.  
-🛠 Skilled in Python, Django, FastAPI, SQL, and RESTful API design.  
-🚀 Experienced in building fullstack applications and automation tools using Git, Docker, and CI/CD pipelines.  
-💡 Always eager to learn, solve real-world problems, and contribute to meaningful, collaborative projects.
-
----
-
-### 🧰 Technologies I Work With
-
-- **Languages**: Python, JavaScript, SQL, C++, Java  
-- **Frameworks**: Django, FastAPI, Flask  
-- **Databases**: PostgreSQL, MySQL, SQLite  
-- **DevOps & Tools**: Docker, Jenkins, CI/CD Pipelines  
-- **Version Control**: Git, GitHub  
+Motivated and detail-oriented **Software Developer** with hands-on experience in **Front-End development using React Native** and **Back-End development with Python and Django**.  
+Passionate about crafting clean, efficient, and scalable systems that combine strong architecture with great user experience.  
+Quick to learn new technologies, with solid problem-solving skills and a deep understanding of **Full-Stack design**, **APIs**, and **data-driven applications**.
 
 ---
 
-## 📬 Connect with Me
+### 🧰 Technologies I Work With  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/python-fighter/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://nir-portfolio-backend.onrender.com/)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nir41415511@gmail.com)
+- **Languages:** Python, JavaScript, Java, C++, HTML, CSS  
+- **Frameworks & Tools:** React Native, React, Django, FastAPI, Flask, Git, Docker  
+- **Databases:** PostgreSQL, MySQL, SQLite, MongoDB, Firebase  
+- **Concepts:** OOP, Data Structures, RESTful APIs, Clean Code, Testing, CI/CD, Agile  
 
 ---
 
-📌 **Want to see my work? Check out my pinned repositories above!**
+## 🌍 Featured Projects  
+
+### 🏅 [Interactive World War II Map & Timeline](https://github.com/Nir41415533/WWII-Interactive-Map)  
+Built a bilingual fullstack platform for the **Jewish Soldier Museum**, featuring interactive maps, RESTful APIs for 34K+ historical records, and AI-powered content.  
+Tech Stack: *Django, PostgreSQL, JavaScript, MapLibre, REST API*
+
+### 💻 [AI-Powered Terminal Portfolio](https://github.com/Nir41415533/Terminal-Portfolio)  
+An interactive, terminal-style personal portfolio that uses **FastAPI** and **OpenAI API** for natural language and shell-like command interactions.  
+Tech Stack: *FastAPI, JavaScript, OpenAI API*
+
+---
+
+## 📬 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nir41415533/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://nir-ohayon.onrender.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nir41415533)  
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nir41415511@gmail.com)  
+
+---
+
+📌 **Want to see more?**  
+Explore my pinned repositories or visit my [**portfolio website**](https://nir-ohayon.onrender.com/) for more projects and details.
