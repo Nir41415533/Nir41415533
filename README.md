@@ -17,7 +17,7 @@ Quick to learn new technologies, with solid problem-solving skills and a deep un
 
 ## 🌍 Featured Projects  
 
-### 🏅 [Interactive World War II Map & Timeline](https://github.com/Nir41415533/Final-Project)  
+### 🏅 [Interactive World War II Map & Timeline](https://github.com/Nir41415533/Final-Project)  -Dean's honor project
 Built a bilingual fullstack platform for the **Jewish Soldier Museum**, featuring interactive maps, RESTful APIs for 34K+ historical records, and AI-powered content.  
 Tech Stack: *Django, PostgreSQL, JavaScript, MapLibre, REST API*
 
