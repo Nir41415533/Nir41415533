@@ -26,18 +26,6 @@ I am a motivated and detail-oriented **Software Developer** with a passion for b
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nir41415533&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nir41415533&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nir41415533&theme=radical" />
-</p>
-
----
-
 ### 🏅 Featured Projects
 
 #### 🗺️ [Interactive WWII Map & Timeline](https://github.com/Nir41415533/Final-Project)
