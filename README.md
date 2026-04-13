@@ -1,38 +1,65 @@
-## 👋 Hi there, I'm Nir  
+# 👋 Hi there, I'm Nir Ohayon
+### Full-Stack Developer | React Native Specialist | Tech Enthusiast
 
-Motivated and detail-oriented **Software Developer** with hands-on experience in **Front-End development using React Native** and **Back-End development with Python and Django**.  
-Passionate about crafting clean, efficient, and scalable systems that combine strong architecture with great user experience.  
-Quick to learn new technologies, with solid problem-solving skills and a deep understanding of **Full-Stack design**, **APIs**, and **data-driven applications**.
-
----
-
-### 🧰 Technologies I Work With  
-
-- **Languages:** Python, JavaScript, Java, C++, HTML, CSS  
-- **Frameworks & Tools:** React Native, React, Django, FastAPI, Flask, Git, Docker  
-- **Databases:** PostgreSQL, MySQL, SQLite, MongoDB, Firebase  
-- **Concepts:** OOP, Data Structures, RESTful APIs, Clean Code, Testing, CI/CD, Agile  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
 
 ---
 
-## 🌍 Featured Projects  
+### 🚀 About Me
+I am a motivated and detail-oriented **Software Developer** with a passion for building scalable, high-performance applications. I specialize in the **React Native** ecosystem for mobile and **Python/Django** for robust backends. 
 
-### 🏅 [Interactive World War II Map & Timeline](https://github.com/Nir41415533/Final-Project)  -Dean's honor project
-Built a bilingual fullstack platform for the **Jewish Soldier Museum**, featuring interactive maps, RESTful APIs for 34K+ historical records, and AI-powered content.  
-Tech Stack: *Django, PostgreSQL, JavaScript, MapLibre, REST API*
-
-### 💻 [AI-Powered Terminal Portfolio](https://github.com/Nir41415533/nir-protfolio)  
-An interactive, terminal-style personal portfolio that uses **FastAPI** and **OpenAI API** for natural language and shell-like command interactions.  
-Tech Stack: *FastAPI, JavaScript, OpenAI API*
+- 🎓 **B.Sc. in Computer Science** (Specializing in Cyber Security).
+- 🏆 **Dean's Honor Recipient** for my Final Project.
+- ⚡ **Fun Fact:** I'm an avid *One Piece* fan and a Combat Medic veteran.
 
 ---
 
-## 📬 Connect with Me  
+### 🛠️ Tech Stack & Tools
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nir41415533/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nir41415533) [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nir41415511@gmail.com)
-
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,java,cpp,react,django,fastapi,flask,postgres,mongodb,firebase,docker,git,linux,tailwind,html,css" />
+  </a>
+</p>
 
 ---
 
-📌 **Want to see more?**  
-Explore my pinned repositories or visit my [**portfolio website**](https://nir-ohayon.onrender.com/) for more projects and details.
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nir41415533&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nir41415533&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nir41415533&theme=radical" />
+</p>
+
+---
+
+### 🏅 Featured Projects
+
+#### 🗺️ [Interactive WWII Map & Timeline](https://github.com/Nir41415533/Final-Project)
+> **Awarded Dean's Honor.** A full-stack platform for the Jewish Soldier Museum.
+- **Tech:** `Django` | `PostgreSQL` | `MapLibre` | `REST API`
+- **Impact:** Digitized 34K+ historical records with AI-powered insights.
+
+#### 💻 [AI-Powered Terminal Portfolio](https://github.com/Nir41415533/nir-protfolio)
+> An interactive, shell-like portfolio experience.
+- **Tech:** `FastAPI` | `OpenAI API` | `JavaScript`
+- **Feature:** Natural language processing for command-line interactions.
+
+---
+
+### 📫 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/nir41415533/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nir41415533" height="30" width="40" /></a>
+<a href="mailto:nir41415511@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="nir41415511" height="30" width="40" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" />
+</p>
