@@ -13,7 +13,6 @@ I am a motivated and detail-oriented **Software Developer** with a passion for b
 
 - 🎓 **B.Sc. in Computer Science** (Specializing in Cyber Security).
 - 🏆 **Dean's Honor Recipient** for my Final Project.
-- ⚡ **Fun Fact:** I'm an avid *One Piece* fan and a Combat Medic veteran.
 
 ---
 
