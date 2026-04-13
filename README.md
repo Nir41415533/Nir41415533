@@ -41,13 +41,18 @@ I am a motivated and detail-oriented **Software Developer** with a passion for b
 ---
 
 ### 📫 Connect with Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/nir41415533/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nir41415533" height="30" width="40" /></a>
-<a href="mailto:nir41415511@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="nir41415511" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/nir41415533/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nir41415511@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" />
+  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
